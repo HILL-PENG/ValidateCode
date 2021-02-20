@@ -1,0 +1,19 @@
+{
+    "name": "hillpeng/validate-code",
+    "description": "generate an old fashion validate code for forms or anywhere, enjoy it.",
+    "type": "l",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hugh",
+            "email": "iampengl@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ValidateCode\\": "src/ValidateCode"
+        }
+    }
+}
